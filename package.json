@@ -1,0 +1,21 @@
+{
+  "name": "princess-of-tuskur",
+  "displayName": ".",
+  "description": "Color theme based on the Princess of Tuskur from the utawarerumono series",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Princess of Tuskur",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Princess of Tuskur-color-theme.json"
+      }
+    ]
+  }
+}
